@@ -1,0 +1,12 @@
+MySQL workbench kullanarak yapılmıştır 
+Yapılan bilgisayar Kullanıcı Adı "root"
+		   Şifre	"220542"
+Dosyalarda bunu kendi bilgisayarınıza göre entegre etmeyi unutmayınız.
+Resim İçin oluşturulan kısayol da Osman Ali Özceylan'ın masaüstü kullanılmıştır. hava durumu görselleri değiştirilmediği takdirde çıkmayabilir.
+
+
+Youtube video link:
+https://youtu.be/vc2cII_m5Sc
+
+Github:
+https://github.com/OsmanOzceylan/EclipseGitHub
